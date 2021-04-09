@@ -1,9 +1,3 @@
-<p align="center">
-<a href="https://github.com/csc667-02-sp19/csc667-sp19-Team04">
-<img alt="EventUp" src="https://github.com/csc667-02-sp19/csc667-sp19-Team04/blob/readme/update/Front-end/assets/sfsulogo.png" width="250">
-</a>
-</p>
-
 <h3 align="center">
 EventUp mobile app
 </h3>
@@ -20,10 +14,6 @@ Event Up is a social media app for events which is accessible in both platforms 
 - User **sign up or login** using their university email.
 - User can **browse, post, share, and RSVP events** on EventsUp.
 - They can also **comment** on any events for host to repond to their questions.
-
-### [Demo - Try it on Expo](https://exp.host/@mitulsavani/Front-end)
-![daug_demo](https://github.com/csc667-02-sp19/csc667-sp19-Team04/blob/readme/update/Front-end/assets/%20eventup.gif)
-
 
 ## Functionality
 - EventUp is a fully functioning Social Media app for Events
@@ -134,7 +124,3 @@ Response:&nbsp;&nbsp; login status, response message, and event ID of the create
 ## Feedback
 For any other questions about this repo in general please reach out to anyone [**@mitulsavani**](https://github.com/mitulsavani), [**@mecharmor**](https://github.com/mecharmor), [**@chinn17**](https://github.com/chinn17), [**@yungvinsantos**](https://github.com/yungvinsantos), [**@AlexWolski**](https://github.com/AlexWolski) on Github. <br>
 PS: Feel free to fork it if you find our app interesting.
-
-
-
-> Updated on: 04/21/19, Mitul Savani
